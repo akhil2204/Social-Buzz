@@ -1,0 +1,61 @@
+  @import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=Merriweather:700i&display=swap');
+  a{
+    color:black !important;
+  }
+
+
+  .profilename{
+    font-family: 'algerian' !important;
+  }
+  .brand-logo{
+   font-family: 'Merriweather', serif;
+  }
+  .font{
+   font-family: 'Merriweather', serif;
+   font-weight: 600;
+   
+  }
+
+  .mycard{
+
+    margin-top: 40px;
+  }
+  .authcard{
+    padding:20px;
+    text-align:center;
+    max-width:400px;
+    margin:10px auto;
+  }
+  .item{
+    width:30%;
+    margin-bottom:3%;
+    border-radius:5%;
+  }
+  .profile_pics{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+  }
+
+ 
+
+  .home-card{
+    margin:40px auto;
+    max-width:500px;
+    height:max-content;
+  }
+#toast-container{
+  top:30px !important;
+  right:20px !important;
+  left:auto !important;
+}
+.follow{
+margin : 10px
+
+}
+
+.material-icons:hover {
+  cursor:pointer;
+
+}
